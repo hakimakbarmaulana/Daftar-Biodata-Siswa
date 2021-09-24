@@ -1,6 +1,6 @@
 Daftar-Biodata-Siswa
 ==
-Daftar biodata Siswa Dicoding Academy
+Daftar biodata Siswa D'Academy
 --
 *Biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
 - Angkatan 2019
